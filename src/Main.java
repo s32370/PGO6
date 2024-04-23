@@ -93,7 +93,7 @@ class Goal {
 }
 
 //testing
-
+// probably not the proper way of using it, the intend is to make a method using the class
 public class ProgramTest {
     public static void main(String[] args) {
         Employee emp = new Employee("John", "Doe", "New York", "john@doe.com", "123456789", 2020);
